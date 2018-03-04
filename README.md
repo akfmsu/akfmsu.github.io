@@ -1,9 +1,10 @@
-# LiXizhi's Personal Website
+# Boquete Panama Guide
 
-Runing on Github + Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+A Resident and Tourist Guide to Boqute Panama
 
-# KeepWork
-Create Your Own Personal Website in Markdown. Visit http://keepwork.com 
+This is a journal of discovery of an ExPat living in Boquete Panama. The 
+posts are opinions, experiences and observations. Thousands of people 
+read this blog each day. I welcome your feedback, comments and opinions. 
 
 
 
