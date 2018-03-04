@@ -2,7 +2,10 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## Boquete Panama Guide
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+A Resident and Tourist Guide to Boqute Panama
+
+This is a journal of discovery of an ExPat living in Boquete Panama. The 
+posts are opinions, experiences and observations. Thousands of people 
+read this blog each day. I welcome your feedback, comments and opinions.
