@@ -7,7 +7,7 @@ comments: false
 ---
 I am moving slowly but that seems like a good time to bring back an old feature, polls. Today on Facebook some one wrote an objective negative review of a Pizza Spot in Boquete. I offered to do a poll, well I did. The polls are back on Boquete guide in the right column. Please make your opinion, subjective as it is,  heard. You can vote for two places so things are easy.
 
-![alt text](https://raw.githubusercontent.com/akfmsu/akfmsu.github.io/master/uploads/2015/05/IMG_3889-550x550.jpg "Pizza")
+![alt text](https://raw.githubusercontent.com/akfmsu/akfmsu.github.io/master/uploads/2015/05/IMG_3889-550x550.jpg "Pizza"){: .center-image }
 
 If nothing else this will let tourists know the most ubiquitous, typical Panamanian food to be found in Boquete is probably pizza.
 
