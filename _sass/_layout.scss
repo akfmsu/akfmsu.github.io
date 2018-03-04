@@ -1,6 +1,11 @@
 
 *{
-    font-family: Consolas,'Microsoft YaHei', 'SimHei', sans-serif;
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
 }
 
 /**
@@ -240,8 +245,3 @@
     }
 }
 
-.center-image
-{
-    margin: 0 auto;
-    display: block;
-}
