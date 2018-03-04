@@ -3,7 +3,6 @@ layout: page
 title: About
 comments: false
 permalink: /about/
-<meta charset="utf-8">
 ---
 
 * content
