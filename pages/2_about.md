@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: About
-comments: true
+comments: false
 permalink: /about/
 ---
 
@@ -34,6 +34,6 @@ My life is full, but now with things I choose rather than those chosen for me.
 
 As time allows I blog my experiences for all who care to read about them, for visitors and other residents. If you want to participate this is an open blog, you can comment, you can signup, you can post.
 
-This site, Boquete Panama Guide, and all of it&#8217;s content is copyrighted and all rights are reserved except as indicated on this .creative commons license
+This site, Boquete Panama Guide, and all of it's content is copyrighted and all rights are reserved except as indicated on this .creative commons license
 
 Lee Zeltzer
